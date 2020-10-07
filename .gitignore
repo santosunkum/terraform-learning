@@ -1,0 +1,4 @@
+*.tfstate
+**/.terraform/*
+crash.log
+credentials
